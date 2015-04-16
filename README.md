@@ -1,2 +1,0 @@
-# validata
-Validata = Validate + Data.
