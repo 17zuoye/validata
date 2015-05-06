@@ -1,5 +1,12 @@
 Validata
 ======================================
+[![Build Status](https://img.shields.io/travis/17zuoye/validata/master.svg?style=flat)](https://travis-ci.org/17zuoye/validata)
+[![Coverage Status](https://coveralls.io/repos/17zuoye/validata/badge.svg)](https://coveralls.io/r/17zuoye/validata)
+[![Health](https://landscape.io/github/17zuoye/validata/master/landscape.svg?style=flat)](https://landscape.io/github/17zuoye/validata/master)
+[![Download](https://img.shields.io/pypi/dm/validata.svg?style=flat)](https://pypi.python.org/pypi/validata)
+[![License](https://img.shields.io/pypi/l/validata.svg?style=flat)](https://pypi.python.org/pypi/validata)
+[![Python Versions](https://pypip.in/py_versions/validata/badge.svg?style=flat)](https://pypi.python.org/pypi/validata)
+
 Validata = Validate + Data.
 
 A data validator library used to detect invalid data with error informations, based on

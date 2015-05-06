@@ -11,6 +11,8 @@ setup(
     ],
     install_requires=[
         'mongoengine >= 0.8',
+        'arrow',
+        'etl_utils',
     ],
     zip_safe=False,
 )

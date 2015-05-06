@@ -2,14 +2,12 @@
 
 from mongoengine.fields import *
 
-
-
 __all__ = [
     'StringField', 'URLField', 'EmailField', 'IntField', 'LongField',
     'FloatField', 'DecimalField', 'BooleanField', 'DateTimeField',
     'ComplexDateTimeField', 'ObjectIdField',
     'DynamicField', 'ListField',
-    'SortedListField',  'DictField',
+    'SortedListField', 'DictField',
     'MapField',
     'BinaryField',
     'GeoPointField', 'PointField', 'LineStringField', 'PolygonField',
