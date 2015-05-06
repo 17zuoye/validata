@@ -1,4 +1,4 @@
-#-*-coding:utf-8-*-
+# -*-coding:utf-8-*-
 
 
 from setuptools import setup
@@ -7,10 +7,10 @@ setup(
     name='validata',
     version='0.0.1',
     packages=[
-                'validata',
-             ],
+        'validata',
+    ],
     install_requires=[
-        'mongoengine == 0.8.7',
-        ],
+        'mongoengine >= 0.8',
+    ],
     zip_safe=False,
 )
